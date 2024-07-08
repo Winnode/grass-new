@@ -4,5 +4,5 @@
   "max_active_proxies": 200,
   "use_manual_proxy": false,
   "manual_proxy_file": "active_proxies.txt",
-  "uuidproc": "aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL01EUC1LQ0EvYWN1cy9tYWluL2FsbC50eHQ="
+  "uuidproc": "aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL01EUC1LQ0EvYWN1cy9tYWluL3Jlc3VsdF9mb2xkZXIvYWxsLnR4dA=="
 }
