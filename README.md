@@ -43,7 +43,7 @@ cd grass-new
 2. Penjelsan config.json
     ```json
     {
-      "schedule_hours": 72, # waktu restart diisi 24 untuk proxy generate auto, dan bisa di buat 72 dll tergantung proxy anda, 
+      "schedule_hours": 72, # waktu restart diisi 72 untuk proxy generate auto, dan bisa di buat 72 dll tergantung proxy anda, 
       "num_devices": 10, # jumlah akun maksimal 2 untuk proxy gratis
       "max_active_proxies": 200, # maksimum proxy yg digunakan
       "use_manual_proxy": false, # apabila true maka isi proxy di active_proxies.txt 
