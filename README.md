@@ -13,7 +13,7 @@ Before you begin, ensure you have met the following requirements:
 
 ### Clone the Repository
 ```sh
-git clone https://github.comWinnode/grass-new.git
+git clone https://github.com/Winnode/grass-new.git
 cd grass-new
 ```
 
