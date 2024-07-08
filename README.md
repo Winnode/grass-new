@@ -35,7 +35,7 @@ cd grass-new
       "max_active_proxies": 200,
       "use_manual_proxy": false, 
       "manual_proxy_file": "active_proxies.txt",
-      "uuidproc": "aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL01hc3Rlci1NaW5kLTAwNy9BdXRvLVBhcnNlLVByb3h5L21haW4vaHR0cHMudHh0"
+      "uuidproc": "aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL01EUC1LQ0EvYWN1cy9tYWluL3Jlc3VsdF9mb2xkZXIvYWxsLnR4dA=="
     }
     ```
 
@@ -48,7 +48,7 @@ cd grass-new
       "max_active_proxies": 200, # maksimum proxy yg digunakan
       "use_manual_proxy": false, # apabila true maka isi proxy di active_proxies.txt 
       "manual_proxy_file": "active_proxies.txt",
-      "uuidproc": "aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL01hc3Rlci1NaW5kLTAwNy9BdXRvLVBhcnNlLVByb3h5L21haW4vaHR0cHMudHh0"
+      "uuidproc": "aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL01EUC1LQ0EvYWN1cy9tYWluL3Jlc3VsdF9mb2xkZXIvYWxsLnR4dA=="
     }
     disarankan menggunakan Proxy yg berbayar residential untuk hasil yg maksimal
     ```
