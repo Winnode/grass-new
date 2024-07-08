@@ -1,0 +1,8 @@
+{
+  "schedule_hours": 72,
+  "num_devices": 2,
+  "max_active_proxies": 200,
+  "use_manual_proxy": false,
+  "manual_proxy_file": "active_proxies.txt",
+  "uuidproc": "aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL01EUC1LQ0EvYWN1cy9tYWluL2FsbC50eHQ="
+}
