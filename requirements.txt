@@ -12,7 +12,7 @@ loguru==0.6.0
 multidict==6.0.2
 pycares==4.1.2
 pycparser==2.21
-pyee==8.3.3
+pyee==8.2.2
 PySocks==1.7.1
 python-dateutil==2.8.2
 requests==2.26.0
@@ -21,3 +21,4 @@ typing-extensions==4.0.1
 urllib3==1.26.7
 websockets==10.0
 pyfiglet
+websockets-proxy
